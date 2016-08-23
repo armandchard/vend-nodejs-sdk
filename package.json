@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShoppinPal/vend-nodejs-sdk.git"
+    "url": "https://github.com/armandchard/vend-nodejs-sdk.git"
   },
   "keywords": [
     "vend",
@@ -18,9 +18,9 @@
   "author": "Pulkit Singhal",
   "license": "Apache 2",
   "bugs": {
-    "url": "https://github.com/ShoppinPal/vend-nodejs-sdk/issues"
+    "url": "https://github.com/armandchard/vend-nodejs-sdk/issues"
   },
-  "homepage": "https://github.com/ShoppinPal/vend-nodejs-sdk",
+  "homepage": "https://github.com/armandchard/vend-nodejs-sdk",
   "dependencies": {
     "bluebird": "2.6.0",
     "moment": "2.9.0",
